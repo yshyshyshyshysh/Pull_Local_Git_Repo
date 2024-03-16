@@ -1,4 +1,4 @@
-# Pull_Local_Git_Repo
+# Using Git Pull Requests to Fetch and Merge Changes from GitHub to All Local Repositories
 **`February 5, 2024 / by Yu-Shin, Hu`**
 
 -   程式碼可用來自動更新所有本地倉庫中的所有分支 (假設github中檔案已clone到本地且名稱相同)。
