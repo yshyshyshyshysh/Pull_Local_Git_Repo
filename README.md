@@ -7,7 +7,7 @@
 ## Steps <br>
 
 **Step 1. Generate personal access token**
--   The way to generate tokens can be referred to: https://blog.csdn.net/chengwenyang/article/details/120060010
+-   The way to generate tokens can be referred to: [How to use github token](https://blog.csdn.net/chengwenyang/article/details/120060010)
 -   To access commit status and private repositories, grant permissions to `repo` and `user`.
 
 **Step 2. Run the Script**
